@@ -8,8 +8,8 @@ I am Zaidulla Adilkhan, a Data Scientist with experience in:
 - Classic ML modeling
 - Parsing data from dynamic websites and automated site testing
 
-🌱 I am also interested in data engineering and cloud solutions
-My current Stack  is :
+🌱 I am also interested in data engineering and cloud solutions  
+My current Stack  is :  
 SQL, Python (pandas, numpy, scipy, sklearn, pytorch, implicit, catboost), PowerBI
 
 Examples of my PowerBI dashboards:
