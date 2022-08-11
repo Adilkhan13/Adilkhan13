@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am Zaidulla Adilkhan Data Scientist with experience in:
+I am Zaidulla Adilkhan, a Data Scientist with experience in:
 - Building micro services to automate ETL processes
 - EDA, finding patterns and insights in data
 - Recommendation systems
