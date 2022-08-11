@@ -12,7 +12,7 @@ I am Zaidulla Adilkhan Data Scientist with experience in:
 My current Stack  is :
 SQL, Python (pandas, numpy, scipy, sklearn, pytorch, implicit, catboost), PowerBI
 
-Examples of my dashboards:
+Examples of my PowerBI dashboards:
 - [Housing Market Research in Kazakhstan](https://app.powerbi.com/view?r=eyJrIjoiYjRlZTkxZmItMjI2Ny00ZmU3LTlhYjMtMmJjN2U4YmJmNzAwIiwidCI6IjY3ODJkN2EyLTI1YTUtNDU5MS1hY2MxLTlkOGFjNTYyMWVmMSIsImMiOjl9&pageName=ReportSection)
 - [Company financial performance](https://app.powerbi.com/view?r=eyJrIjoiMzE4Mjk4NGEtMDdlNS00Y2ZkLTkxOWYtZTk1NDQ0NTQ1ZDY5IiwidCI6IjY3ODJkN2EyLTI1YTUtNDU5MS1hY2MxLTlkOGFjNTYyMWVmMSIsImMiOjl9&pageName=ReportSectiona269ce90db22e71f2832)
 
